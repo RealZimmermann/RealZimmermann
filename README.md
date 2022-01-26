@@ -1,7 +1,9 @@
 - 👋 Hi, I’m Jonas ( @KingJonas289 )
+- 🏫 Computer Science Student at Technical University Dresden
+- ⭐ Born in 2001
+- 🌇 Live in Dresden
 - 👀 I’m interested in frontend programming.
 - 🌱 I’m currently learning java and javascript.
-- 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me at king.jonas289@gmail.com
 
 <!---
