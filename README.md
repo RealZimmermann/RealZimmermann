@@ -4,7 +4,7 @@
 - 🌇 Live in Dresden
 - 👀 I’m interested in frontend programming.
 - 🌱 I’m currently learning java and javascript.
-- 📫 You can reach me at king.jonas289@gmail.com
+- 📫 You can reach me at jonas.k.zimmermann@outlook.de
 
 <!---
 KingJonas289/KingJonas289 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
