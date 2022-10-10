@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jonas ( @RealZimmermann )
-- 🏫 Computer Science Student at Technical University Dresden
+- 🏫 Computer Science Student at Georgia Institute of Technology
 - ⭐ Born in 2001
-- 🌇 Live in Dresden
+- 🌇 Live in Atlanta
 - 👀 I’m interested in frontend programming.
 - 🌱 I’m currently learning java and javascript.
 - 📫 You can reach me at jonas.k.zimmermann@outlook.de
