@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jonas ( @KingJonas289 )
+- 👋 Hi, I’m Jonas ( @RealZimmermann )
 - 🏫 Computer Science Student at Technical University Dresden
 - ⭐ Born in 2001
 - 🌇 Live in Dresden
