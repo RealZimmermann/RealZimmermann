@@ -4,7 +4,7 @@
 - 🌇 Live in Atlanta
 - 👀 I’m interested in frontend programming.
 - 🌱 I’m currently learning Java and Javascript.
-- 📫 You can reach me at jonas.zimmermann.office@gmail.com
+- 📫 You can reach me at jonas_karl.zimmermann@mailbox.tu-dresden.de
 
 <!---
 RealZimmmermann/RealZimmermann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
