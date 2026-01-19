@@ -5,10 +5,11 @@
 - 👀 I’m interested in frontend programming and content creation.
 - 🌱 I’m currently learning C++ and HTML.
 - 📫 You can reach me at jonas.zimmermann@stud.htw-dresden.de
+  
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=git,html,pthon,c,c++,csharp,java" />
   </a>
 </p>
 
