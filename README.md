@@ -7,7 +7,6 @@
 - 📫 You can reach me at jonas.zimmermann@stud.htw-dresden.de
   
 <br/><br/>
-<br/><br/>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,python,html,c,cpp,cs,git,photoshop,ai,figma" />
