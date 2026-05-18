@@ -13,4 +13,4 @@ $~$
   </a>
 </p>
 
-<small> _10 Reposetories: ◽4 public ◾6 private_ </small>
+<small> _10 Reposetories: ◽1 public ◾9 private_ </small>
