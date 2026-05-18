@@ -12,5 +12,3 @@ $~$
     <img src="https://skillicons.dev/icons?i=java,python,html,c,cpp,cs,git,photoshop,ai,figma" />
   </a>
 </p>
-
-<small> _10 Reposetories: ◽1 public ◾9 private_ </small>
